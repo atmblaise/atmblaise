@@ -1,17 +1,17 @@
-# ⚡ Blaise Atambo
+# Blaise Atambo
 
 ### Energy Systems & Process Engineering | AI/ML for Industrial Systems
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I design and analyze **industrial energy systems** integrating:
 
-- ❄️ HVAC system modeling  
-- 🔥 Industrial steam & utility systems  
-- 🧪 Process simulation (DWSIM)  
-- 🤖 AI/ML for optimization & predictive control  
+- HVAC system modeling  
+- Industrial steam & utility systems  
+- Process simulation (DWSIM)  
+- AI/ML for optimization & predictive control  
 
 My focus is building **intelligent engineering systems** that improve:
 - energy efficiency  
@@ -20,9 +20,9 @@ My focus is building **intelligent engineering systems** that improve:
 
 ---
 
-## 🚀 Flagship Project
+## Flagship Project
 
-### ⚡ Energy Systems Smart Control System
+### Energy Systems Smart Control System
 
 An integrated engineering system combining:
 
