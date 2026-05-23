@@ -20,17 +20,14 @@ My focus is building **intelligent engineering systems** that improve:
 
 ---
 
-## Flagship Project
+## Flagship Projects
 
-### Energy Systems Smart Control System
-
-An integrated engineering system combining:
+### Smart Energy & Thermodynamics Systems
 
 - HVAC system thermal modeling  
 - Steam system energy flow simulation  
-- AI/ML-based predictive optimization  
-- Control strategies for
-
+- AI/ML-based predictive optimization
+- Carbon systems
 ---
 
 ## 🌐 Connect With Me
