@@ -1,36 +1,73 @@
-# Blaise Atambo
+# Hi, I'm Blaise Atambo
+I am a Chemical Engineering graduate focused on **industrial digitalization, process modelling, and digital twin development for energy and environmental systems**.
 
-### Energy Systems & Process Engineering | AI/ML for Industrial Systems
+My work sits at the intersection of:
+- Process Engineering (Thermal & Fluid systems) 
+- Computational Modelling (Python, DWSIM) 
+- Industrial Monitoring (SCADA-style dashboards)
+- Climate & Carbon Systems (DAC and energy transtion technologies)
+
+## What I Build
+I develop **industrial-inspired digital twin systems** that replicate real plant behavior, including:
+### Thermal Systems Digital Twin
+- Heat exchangers (refinery preheat systems)
+- Boiler systems with control logic
+- HVAC-style thermal regulation models
+- Fouling and efficiency degradation modeling
+
+### Fluid & Water Systems Digital Twin 
+- Water treatment process systems
+- Flow network modeling (pumps, tanks, filtration)
+- Variable influent water quality (real environmental conditions)
+- Sensor-based monitoring and control
+
+### Carbon & Climate Sytems Digital Twin 
+- Direct Air Capture (DAC) regeneration systems
+- Vacuum-assisted evaporative cooling processes
+- Cyclic adsorption/desorption modeling
+- Energy and mass transfer constrained systems
 
 ---
 
-## About Me
-
-I design and analyze **industrial energy systems** integrating:
-
-- HVAC system modeling  
-- Industrial steam & utility systems  
-- Process simulation (DWSIM)  
-- AI/ML for optimization & predictive control  
-
-My focus is building **intelligent engineering systems** that improve:
-- energy efficiency  
-- system performance  
-- operational decision-making  
+## Digital Twin Architecture (Core Framework)
+All my projects follow a unified industrial architecture:
+- Physics-based process model (DWSIM / equations)
+- Sensor simulation layer (noise, drift, failure)
+- Degradation models (fouling, aging, efficiency loss)
+- Data historian (time-series logging)
+- SCADA-style dashboards (Streamlit visualization)
 
 ---
 
-## Flagship Projects
+## Tools & Technologies
+- Python (core simulation & digital twin engine)
+- DWSIM (process simulation & thermodynamics)
+- Streamlit (SCADA-style dashboards)
+- Pandas / Numpy (data processing)
+- Git & Github (version control & documentation)
 
-### Smart Energy & Thermodynamics Systems
-
-- HVAC system thermal modeling  
-- Steam system energy flow simulation  
-- AI/ML-based predictive optimization
-- Carbon systems
 ---
 
-## 🌐 Connect With Me
+## Featured Projects
+### Industrial Thermal Systems Digital Twin
+Refinery-inspired heat exchanger system with fouling, sensor noise, and PID control.
+
+### Smart Water Treatment Plant Digital Twin
+Decentralized water treatment system modeled using real environmental conditions (Kenyan water sources).
+
+### DAC Regeneration System Digital Twin 
+Vacuum-assisted evaporative cooling system for Direct Air Capture sorbent regeneration cycles.
+
+---
+
+## Current Focus 
+I am currently developing a **full industrial digital twin framework** that integrates thermal systems, fluid sytems in considerate of green energy solutions into a unified process engineering simulation environment.
+
+---
+
+> "Engineering is not about simulation, but replicating real system behavior under real constraints."
+
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/atmblaise)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/blaise-atambo-89124b293)
