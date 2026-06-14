@@ -1,77 +1,101 @@
-# Hi, I'm Blaise Atambo
-I am a Chemical Engineering graduate focused on **industrial digitalization, process modelling, and digital twin development for energy and environmental systems**.
+# AUTOMA Chem Engineering
+Hi I'm Blaise a Chemical Engineering graduate focused on Process Systems Engineering, Industrial Data Analytics, and computational approaches to industrial systems.
 
-My work sits at the intersection of:
-- Process Engineering (Thermal & Fluid systems) 
-- Computational Modelling (Python, DWSIM) 
-- Industrial Monitoring (SCADA-style dashboards)
-- Climate & Carbon Systems (DAC and energy transtion technologies)
-
-## What I Build
-I develop **industrial-inspired digital twin systems** that replicate real plant behavior, including:
-### Thermal Systems Digital Twin
-- Heat exchangers (refinery preheat systems)
-- Boiler systems with control logic
-- HVAC-style thermal regulation models
-- Fouling and efficiency degradation modeling
-
-### Fluid & Water Systems Digital Twin 
-- Water treatment process systems
-- Flow network modeling (pumps, tanks, filtration)
-- Variable influent water quality (real environmental conditions)
-- Sensor-based monitoring and control
-
-### Carbon & Climate Sytems Digital Twin 
-- Direct Air Capture (DAC) regeneration systems
-- Vacuum-assisted evaporative cooling processes
-- Cyclic adsorption/desorption modeling
-- Energy and mass transfer constrained systems
+My background includes industrial exposure at Kenya Electricity Generating Company (KenGen) Olkaria Geothermal Power Station and research development in biomass process engineering.
 
 ---
 
-## Digital Twin Architecture (Core Framework)
-All my projects follow a unified industrial architecture:
-- Physics-based process model (DWSIM / equations)
-- Sensor simulation layer (noise, drift, failure)
-- Degradation models (fouling, aging, efficiency loss)
-- Data historian (time-series logging)
-- SCADA-style dashboards (Streamlit visualization)
+## ENGINEERING DIRECTION
+
+My current focus is the development of engineering capability in:
+
+* Process Systems Engineering
+* Industrial Data Analytics (developing)
+* Computational Engineering applications
+* Process simulation and modeling
+* Early-stage digital twin systems
+
+This direction is structured under the AUTOMA Chem engineering learning framework.
 
 ---
 
-## Tools & Technologies
-- Python (core simulation & digital twin engine)
-- DWSIM (process simulation & thermodynamics)
-- Streamlit (SCADA-style dashboards)
-- Pandas / Numpy (data processing)
-- Git & Github (version control & documentation)
+## AUTOMA CHEM LEARNING SYSTEM
+
+This repository documents my engineering progression:
+
+### Phase 1: Core Chemical Engineering
+
+* Mass & Energy Balances
+* Thermodynamics
+* Heat & Mass Transfer
+* Fluid Mechanics
+
+### Phase 2: Process Systems Engineering
+
+* Process simulation (DWSIM)
+* Unit operations modeling
+* System behavior analysis
+
+### Phase 3: Computational Engineering
+
+* Python-based engineering tools
+* Process analysis models
+* Data visualization
+
+### Phase 4: AUTOMA Chem Systems
+
+* Heat Exchanger Fouling Digital Twin
+* Integrated process + data systems
+* Engineering decision models
 
 ---
 
-## Featured Projects
-### Industrial Thermal Systems Digital Twin
-Refinery-inspired heat exchanger system with fouling, sensor noise, and PID control.
+## FLAGSHIP PROJECT
 
-### Smart Water Treatment Plant Digital Twin
-Decentralized water treatment system modeled using real environmental conditions (Kenyan water sources).
+### Heat Exchanger Fouling Digital Twin (Under Development)
 
-### DAC Regeneration System Digital Twin 
-Vacuum-assisted evaporative cooling system for Direct Air Capture sorbent regeneration cycles.
+A computational model simulating fouling behavior and performance degradation in heat exchangers using heat transfer principles and early-stage data modeling.
 
 ---
 
-## Current Focus 
-I am currently developing a **full industrial digital twin framework** that integrates thermal systems, fluid sytems in considerate of green energy solutions into a unified process engineering simulation environment.
+## PROJECT REPOSITORIES
+
+### Core Projects
+
+* Heat Exchanger Fouling Digital Twin
+* AUTOMA Chem Engineering Framework
+* Engineering Computational Tools
+
+### Process Engineering
+
+* DWSIM Simulation Studies
+
+DWSIM
 
 ---
 
-> "Engineering is not about simulation, but replicating real system behavior under real constraints."
+## RESEARCH & DEVELOPMENT 
+### Sugarcane Bagasse Pasteurization Model
+One of the foundational projects in my engineering journey. Beginning as a research and development initiative and later extended into a final year project, this work introduced me to process development, engineering analysis, technical research, and sustainable biomass processing. It strengthened my understanding of how chemical engineering principles can be applied to solve real-world industrial challenges.
+
+---
+
+## INDUSTRIAL EXPERIENCE
+
+* Kenya Electricity Generating Company (KenGen) – Olkaria Geothermal Power Station
+* Exposure to geothermal energy systems, plant operations, and industrial process monitoring
+
+---
+
+## GOAL
+
+To bridge traditional Chemical Engineering with computational, data-driven, and systems-based approaches to industrial engineering.
+
+---
 
 ## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/atmblaise)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/blaise-atambo-89124b293)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter)](https://x.com/_tm_ise)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/tm_1_b)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/254799656396)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:blaiseatambo317@gmail.com)
