@@ -1,95 +1,219 @@
-# AUTOMA Chem Engineering
-Hi I'm Blaise a Chemical Engineering graduate focused on Process Systems Engineering, Industrial Data Analytics, and computational approaches to industrial systems.
+# NeksGen Sys | Intelligent Process Systems Engineering
 
-My background includes industrial exposure at Kenya Electricity Generating Company (KenGen) Olkaria Geothermal Power Station and research development in biomass process engineering.
+Hi, I'm **Blaise Atambo**, a Process Systems Engineer and Engineering Technologist focused on designing intelligent industrial systems through simulation, data, automation, and software.
 
----
-
-## ENGINEERING DIRECTION
-
-My current focus is the development of engineering capability in:
-
-* Process Systems Engineering
-* Industrial Data Analytics (developing)
-* Computational Engineering applications
-* Process simulation and modeling
-* Early-stage digital twin systems
-
-This direction is structured under the AUTOMA Chem engineering learning framework.
+NeksGen Sys is an engineering technology initiative dedicated to solving real industrial problems by combining Process Engineering, Artificial Intelligence, Digital Twins, Data Analytics, SCADA, and Interactive 3D Visualization into modern engineering solutions.
 
 ---
 
-## AUTOMA CHEM LEARNING SYSTEM
+# Engineering Vision
 
-This repository documents my engineering progression:
+To accelerate industrial digital transformation by developing intelligent engineering systems that improve operational efficiency, energy performance, reliability, and engineering decision-making.
 
-### Phase 1: Core Chemical Engineering
+---
 
+# Core Engineering Domains
+
+## Process Systems Engineering
+
+* Process Design
+* Process Optimization
 * Mass & Energy Balances
 * Thermodynamics
-* Heat & Mass Transfer
+* Heat Transfer
 * Fluid Mechanics
+* Unit Operations
+* Energy Systems
 
-### Phase 2: Process Systems Engineering
+---
 
-* Process simulation (DWSIM)
-* Unit operations modeling
-* System behavior analysis
+## Process Simulation
 
-### Phase 3: Computational Engineering
+Designing engineering models for:
 
-* Python-based engineering tools
-* Process analysis models
-* Data visualization
+* Industrial Boilers
+* HVAC Systems
+* Heat Exchangers
+* Water Treatment Plants
+* Chemical Processes
+* Utility Systems
+* Energy Optimization
 
-### Phase 4: AUTOMA Chem Systems
+Using computational simulation to evaluate, optimize, and validate industrial processes.
 
+---
+
+## Industrial Data Analytics
+
+Transforming industrial data into engineering insights through:
+
+* Process Performance Analysis
+* KPI Development
+* Statistical Analysis
+* Engineering Dashboards
+* Energy Analytics
+* Equipment Performance Monitoring
+* Decision Support Systems
+
+---
+
+## Industrial Artificial Intelligence
+
+Developing AI-powered engineering applications including:
+
+* Predictive Maintenance
+* Process Optimization
+* Equipment Health Monitoring
+* Time-Series Forecasting
+* Process Anomaly Detection
+* Intelligent Engineering Assistants
+
+---
+
+## Digital Twins
+
+Building virtual representations of industrial assets and processes for:
+
+* Real-Time Monitoring
+* Operational Analysis
+* Performance Optimization
+* Predictive Engineering
+* Asset Management
+* Engineering Decision Support
+
+---
+
+## SCADA & Industrial Automation
+
+Developing modern industrial monitoring platforms featuring:
+
+* Real-Time Dashboards
+* Alarm Management
+* Industrial KPIs
+* Process Visualization
+* Equipment Monitoring
+* Industrial IoT Integration
+
+---
+
+## Engineering Software Development
+
+Building engineering applications using:
+
+* Python
+* FastAPI
+* React
+* Next.js
+* PostgreSQL
+* REST APIs
+* Engineering Automation
+
+---
+
+## Interactive 3D Industrial Visualization
+
+Creating engineering-focused visual environments using:
+
+* Blender
+* Three.js
+* Interactive Digital Twins
+* Industrial Equipment Models
+* Process Plant Visualization
+* Engineering Animations
+
+---
+
+# Flagship Projects
+
+Current development portfolio includes:
+
+* Smart Boiler Digital Twin Platform
+* HVAC Digital Twin Platform
 * Heat Exchanger Fouling Digital Twin
-* Integrated process + data systems
-* Engineering decision models
+* Industrial SCADA Platform
+* Water Systems Intelligence Platform
+* Process Simulation Library
+* Industrial AI Platform
+* Engineering Analytics Suite
+* Predictive Maintenance Platform
+* Engineering Software Toolkit
+
+Every project is developed as a consulting-grade engineering solution inspired by real industrial challenges across manufacturing, utilities, energy, and process industries.
 
 ---
 
-## FLAGSHIP PROJECT
+# Engineering Technology Stack
 
-### Heat Exchanger Fouling Digital Twin (Under Development)
+### Engineering
 
-A computational model simulating fouling behavior and performance degradation in heat exchangers using heat transfer principles and early-stage data modeling.
+* Process Systems Engineering
+* Thermodynamics
+* Heat Transfer
+* Fluid Mechanics
+* Energy Systems
+
+### Simulation
+
+* DWSIM
+* Python
+
+### Artificial Intelligence
+
+* Machine Learning
+* Predictive Analytics
+* Industrial AI
+
+### Data Engineering
+
+* Pandas
+* NumPy
+* SQL
+* Plotly
+* Power BI
+
+### Software Engineering
+
+* FastAPI
+* React
+* Next.js
+* PostgreSQL
+
+### Industrial Systems
+
+* Digital Twins
+* SCADA
+* Industrial Dashboards
+* Process Monitoring
+
+### Visualization
+
+* Blender
+* Three.js
+
+### Development
+
+* Git
+* GitHub
 
 ---
 
-## PROJECT REPOSITORIES
+# Philosophy
 
-### Core Projects
+Engineering is no longer limited to designing equipment—it is about designing intelligent systems.
 
-* Heat Exchanger Fouling Digital Twin
-* AUTOMA Chem Engineering Framework
-* Engineering Computational Tools
-
-### Process Engineering
-
-* DWSIM Simulation Studies
-
-DWSIM
+NeksGen Sys develops engineering solutions where process engineering, simulation, data analytics, artificial intelligence, industrial automation, and interactive visualization work together to solve complex industrial challenges.
 
 ---
 
-## RESEARCH & DEVELOPMENT 
-### Sugarcane Bagasse Pasteurization Model
-One of the foundational projects in my engineering journey. Beginning as a research and development initiative and later extended into a final year project, this work introduced me to process development, engineering analysis, technical research, and sustainable biomass processing. It strengthened my understanding of how chemical engineering principles can be applied to solve real-world industrial challenges.
+# Mission
+
+To engineer the next generation of intelligent industrial systems through simulation, digital twins, artificial intelligence, engineering analytics, and immersive industrial visualization.
 
 ---
 
-## INDUSTRIAL EXPERIENCE
-
-* Kenya Electricity Generating Company (KenGen) – Olkaria Geothermal Power Station
-* Exposure to geothermal energy systems, plant operations, and industrial process monitoring
-
----
-
-## GOAL
-
-To bridge traditional Chemical Engineering with computational, data-driven, and systems-based approaches to industrial engineering.
+> **Engineering the Digital Industry.**
+>
+> *Intelligent Process Systems • Industrial AI • Digital Twins • Data Analytics • SCADA • Engineering Software • 3D Visualization*
 
 ---
 
