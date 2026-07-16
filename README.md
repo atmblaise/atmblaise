@@ -1,220 +1,164 @@
-# NeksGen Sys | Intelligent Process Systems Engineering
+# NeksGen Sys
 
-Hi, I'm **Blaise Atambo**, a Process Systems Engineer and Engineering Technologist focused on designing intelligent industrial systems through simulation, data, automation, and software.
+> **Engineering the Future Through Research, Software and Intelligent Systems.**
 
-NeksGen Sys is an engineering technology initiative dedicated to solving real industrial problems by combining Process Engineering, Artificial Intelligence, Digital Twins, Data Analytics, SCADA, and Interactive 3D Visualization into modern engineering solutions.
+NeksGen Sys is an engineering research and technology initiative focused on advancing process systems engineering through scientific research, engineering software development, industrial artificial intelligence, digital twins, and open-source engineering.
 
----
+Our goal is to bridge research and industrial practice by transforming engineering challenges into validated, scalable, and intelligent solutions.
 
-# Engineering Vision
 
-To accelerate industrial digital transformation by developing intelligent engineering systems that improve operational efficiency, energy performance, reliability, and engineering decision-making.
+# About the Founder
 
----
+NeksGen Sys was founded by **Blaise Atambo**, a Chemical Engineering Graduate with a passion for transforming complex industrial challenges into practical engineering solutions through scientific research, process engineering, and technology development.
 
-# Core Engineering Domains
+His work is centered on the belief that engineering innovation begins with a deep understanding of physical systems. Rather than treating software as the starting point, he combines first-principles engineering, mathematical modelling, process simulation, and computational tools to design technologies that address real industrial and environmental problems.
 
-## Process Systems Engineering
+His research interests span Process Systems Engineering, Reaction Engineering, Heat and Mass Transfer, Process Simulation, Climate Technologies, Energy Systems, Digital Twins, Industrial Artificial Intelligence, and Engineering Software Development.
 
-* Process Design
-* Process Optimization
-* Mass & Energy Balances
-* Thermodynamics
-* Heat Transfer
-* Fluid Mechanics
-* Unit Operations
-* Energy Systems
+Through NeksGen Sys, he is building an open engineering ecosystem where research, software, and industrial technologies come together to accelerate innovation in sustainable process engineering. Every project is approached as an opportunity to develop reproducible engineering knowledge, contribute to the engineering community, and create solutions that can scale from laboratory research to industrial implementation.
 
----
-
-## Process Simulation
-
-Designing engineering models for:
-
-* Industrial Boilers
-* HVAC Systems
-* Heat Exchangers
-* Water Treatment Plants
-* Chemical Processes
-* Utility Systems
-* Energy Optimization
-
-Using computational simulation to evaluate, optimize, and validate industrial processes.
-
----
-
-## Industrial Data Analytics
-
-Transforming industrial data into engineering insights through:
-
-* Process Performance Analysis
-* KPI Development
-* Statistical Analysis
-* Engineering Dashboards
-* Energy Analytics
-* Equipment Performance Monitoring
-* Decision Support Systems
-
----
-
-## Industrial Artificial Intelligence
-
-Developing AI-powered engineering applications including:
-
-* Predictive Maintenance
-* Process Optimization
-* Equipment Health Monitoring
-* Time-Series Forecasting
-* Process Anomaly Detection
-* Intelligent Engineering Assistants
-
----
-
-## Digital Twins
-
-Building virtual representations of industrial assets and processes for:
-
-* Real-Time Monitoring
-* Operational Analysis
-* Performance Optimization
-* Predictive Engineering
-* Asset Management
-* Engineering Decision Support
-
----
-
-## SCADA & Industrial Automation
-
-Developing modern industrial monitoring platforms featuring:
-
-* Real-Time Dashboards
-* Alarm Management
-* Industrial KPIs
-* Process Visualization
-* Equipment Monitoring
-* Industrial IoT Integration
-
----
-
-## Engineering Software Development
-
-Building engineering applications using:
-
-* Python
-* FastAPI
-* React
-* Next.js
-* PostgreSQL
-* REST APIs
-* Engineering Automation
-
----
-
-## Interactive 3D Industrial Visualization
-
-Creating engineering-focused visual environments using:
-
-* Blender
-* Three.js
-* Interactive Digital Twins
-* Industrial Equipment Models
-* Process Plant Visualization
-* Engineering Animations
-
----
-
-# Flagship Projects
-
-Current development portfolio includes:
-
-* Smart Boiler Digital Twin Platform
-* HVAC Digital Twin Platform
-* Heat Exchanger Fouling Digital Twin
-* Industrial SCADA Platform
-* Water Systems Intelligence Platform
-* Process Simulation Library
-* Industrial AI Platform
-* Engineering Analytics Suite
-* Predictive Maintenance Platform
-* Engineering Software Toolkit
-
-Every project is developed as a consulting-grade engineering solution inspired by real industrial challenges across manufacturing, utilities, energy, and process industries.
-
----
-
-# Engineering Technology Stack
-
-### Engineering
-
-* Process Systems Engineering
-* Thermodynamics
-* Heat Transfer
-* Fluid Mechanics
-* Energy Systems
-
-### Simulation
-
-* DWSIM
-* Python
-
-### Artificial Intelligence
-
-* Machine Learning
-* Predictive Analytics
-* Industrial AI
-
-### Data Engineering
-
-* Pandas
-* NumPy
-* SQL
-* Plotly
-* Power BI
-
-### Software Engineering
-
-* FastAPI
-* React
-* Next.js
-* PostgreSQL
-
-### Industrial Systems
-
-* Digital Twins
-* SCADA
-* Industrial Dashboards
-* Process Monitoring
-
-### Visualization
-
-* Blender
-* Three.js
-
-### Development
-
-* Git
-* GitHub
-
----
-
-# Philosophy
-
-Engineering is no longer limited to designing equipment—it is about designing intelligent systems.
-
-NeksGen Sys develops engineering solutions where process engineering, simulation, data analytics, artificial intelligence, industrial automation, and interactive visualization work together to solve complex industrial challenges.
-
+NeksGen Sys represents a long-term commitment to engineering excellence, continuous learning, and collaborative innovation in support of the industries shaping a more sustainable future.
 ---
 
 # Mission
 
-To engineer the next generation of intelligent industrial systems through simulation, digital twins, artificial intelligence, engineering analytics, and immersive industrial visualization.
+To develop engineering technologies that improve industrial processes through research, simulation, software engineering, optimization, and artificial intelligence.
 
 ---
 
-> **Engineering the Digital Industry.**
->
-> *Intelligent Process Systems • Industrial AI • Digital Twins • Data Analytics • SCADA • Engineering Software • 3D Visualization*
+# Vision
 
+To become a globally recognized engineering research and technology organization driving innovation in process engineering, industrial software, and climate technologies.
+
+---
+
+# Engineering Philosophy
+
+At NeksGen Sys, every engineering solution begins with a real industrial problem.
+
+Rather than building software for its own sake, we begin with first-principles engineering, scientific research, and validated process design before developing the digital technologies that support industrial decision-making.
+
+Our work integrates:
+
+- Scientific Research
+- Process Engineering
+- Process Simulation
+- Engineering Software
+- Industrial Artificial Intelligence
+- Open Source Engineering
+
+---
+
+# Core Departments
+
+## Research Lab
+
+Applied engineering research focused on engineering technologies, process systems, process engineering, energy systems, and industrial process optimization.
+
+---
+
+## Development Lab
+
+Development of engineering software, computational tools, simulation libraries, engineering APIs, and reusable technologies supporting modern engineering workflows.
+
+---
+
+## Engineering Technologies
+
+Design and development of industrial engineering solutions including process simulations, digital twins, optimization platforms, monitoring systems, and engineering analytics.
+
+---
+
+## Industrial AI
+
+Application of artificial intelligence to process engineering, predictive analytics, digital twins, optimization, process monitoring, and engineering decision support.
+
+---
+
+## Open Source Engineering
+
+Contributions to the engineering software ecosystem through open-source projects, reusable engineering libraries, and collaboration with scientific communities.
+
+---
+
+## Publications
+
+Technical reports, engineering case studies, research publications, literature reviews, and engineering documentation produced through our research activities.
+
+---
+
+# Research Focus
+
+Current research areas include:
+
+- Process Systems Engineering
+- Reaction Engineering
+- Heat and Mass Transfer
+- Carbon Capture, Utilization and Storage (CCUS)
+- Process Simulation
+- Digital Twins
+- Industrial Automation
+- Engineering Optimization
+- Energy Systems
+- Industrial Artificial Intelligence
+
+---
+
+# Featured Research Projects
+
+### RRS-001 — Sugarcane Bagasse Pasteurization
+
+Experimental and computational investigation of steam pasteurization for agricultural biomass using process simulation and thermal modelling.
+
+Status: **Validation Ready**
+
+---
+
+### RRS-002 — Biomass Gasification
+
+Reaction engineering and process simulation of biomass conversion technologies for sustainable energy production.
+
+Status: **In Progress**
+
+---
+
+# Open Source Engineering
+
+NeksGen Sys actively develops and contributes to engineering software, reusable computational tools, and open engineering technologies that support the wider engineering community.
+
+---
+
+# Research Roadmap
+
+Current strategic priorities include:
+- Process Engineering
+- Process Design & Optimization
+- Climate Technologies
+- Engineering Software
+- Digital Twins
+- Industrial AI
+- Engineering Analytics
+
+---
+
+# Collaboration
+
+NeksGen Sys welcomes collaboration with:
+
+- Researchers
+- Universities
+- Engineering Organizations
+- Open Source Communities
+- Climate Technology Companies
+- Industrial Partners
+
+---
+
+# Contact
+
+We welcome discussions on engineering research, software development, industrial AI, process simulation, and collaborative engineering projects.
+
+Together, we are building the next generation of engineering technologies.
 ---
 
 ## Connect With Me
