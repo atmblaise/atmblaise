@@ -1,166 +1,56 @@
-# NeksGen Sys
+# Blaise Atambo
 
-> **Engineering the Future Through Research, Software and Intelligent Systems.**
+**Blaise Atambo is a Chemical Engineering graduate whose work focuses on research and development in process engineering through computational modelling, process simulation, and engineering software.**
 
-NeksGen Sys is an engineering research and technology initiative focused on advancing process systems engineering through scientific research, engineering software development, industrial artificial intelligence, digital twins, and open-source engineering.
-
-Our goal is to bridge research and industrial practice by transforming engineering challenges into validated, scalable, and intelligent solutions.
-
-
-# About the Founder
-
-NeksGen Sys was founded by **Blaise Atambo**, a Chemical Engineering Graduate with a passion for transforming complex industrial challenges into practical engineering solutions through scientific research, process engineering, and technology development.
-
-His work is centered on the belief that engineering innovation begins with a deep understanding of physical systems. Rather than treating software as the starting point, he combines first-principles engineering, mathematical modelling, process simulation, and computational tools to design technologies that address real industrial and environmental problems.
-
-His research interests span Process Systems Engineering, Reaction Engineering, Heat and Mass Transfer, Process Simulation, Climate Technologies, Energy Systems, Digital Twins, Industrial Artificial Intelligence, and Engineering Software Development.
-
-Through NeksGen Sys, he is building an open engineering ecosystem where research, software, and industrial technologies come together to accelerate innovation in sustainable process engineering. Every project is approached as an opportunity to develop reproducible engineering knowledge, contribute to the engineering community, and create solutions that can scale from laboratory research to industrial implementation.
-
-NeksGen Sys represents a long-term commitment to engineering excellence, continuous learning, and collaborative innovation in support of the industries shaping a more sustainable future.
----
-
-# Mission
-
-To develop engineering technologies that improve industrial processes through research, simulation, software engineering, optimization, and artificial intelligence.
+**NeksGen Sys** provides the framework through which research, engineering projects, software development, and technical documentation are planned, developed, and maintained.
 
 ---
 
-# Vision
+## NeksGen Sys
 
-To become a globally recognized engineering research and technology organization driving innovation in process engineering, industrial software, and climate technologies.
+### Engineering Workspaces
 
----
-
-# Engineering Philosophy
-
-At NeksGen Sys, every engineering solution begins with a real industrial problem.
-
-Rather than building software for its own sake, we begin with first-principles engineering, scientific research, and validated process design before developing the digital technologies that support industrial decision-making.
-
-Our work integrates:
-
-- Scientific Research
-- Process Engineering
-- Process Simulation
-- Engineering Software
-- Industrial Artificial Intelligence
-- Open Source Engineering
+| Workspace                                                                             | Description                                                                                                 |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **[Research Lab](https://github.com/atmblaise/research-lab)**                         | Engineering research, literature reviews, technical investigations, and project development.                |
+| **[Development Lab](https://github.com/atmblaise/development-lab)**                   | Computational tools, engineering software, scientific programming, and reusable libraries.                  |
+| **[Engineering Technologies](https://github.com/atmblaise/engineering-technologies)** | Process technologies, digital twins, engineering applications, and technology development.                  |
+| **[Industrial AI](https://github.com/atmblaise/industrial-ai)**                       | Artificial intelligence for process engineering, modelling, optimization, and engineering decision support. |
+| **[Open Source Engineering](https://github.com/atmblaise/open-source-engineering)**   | Open source engineering software, technical documentation, and community contributions.                     |
+| **[Publications](https://github.com/atmblaise/publications)**                         | Technical reports, literature reviews, engineering case studies, and research publications.                 |
 
 ---
 
-# Core Departments
+## Featured Projects
 
-## Research Lab
-
-Applied engineering research focused on engineering technologies, process systems, process engineering, energy systems, and industrial process optimization.
-
----
-
-## Development Lab
-
-Development of engineering software, computational tools, simulation libraries, engineering APIs, and reusable technologies supporting modern engineering workflows.
+| Project                                                                                                                   | Description                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Sugarcane Bagasse Steam Pasteurization](https://github.com/atmblaise/RRS-001-Sugarcane-Bagasse-Steam-Pasteurization)** | Process design, mathematical modelling, and process simulation of a steam pasteurization system for sugarcane bagasse. |
+| **[Biomass Gasification](https://github.com/atmblaise/RRS-002-Biomass-Gasification)**                                     | Reaction engineering, thermodynamic analysis, and process simulation of biomass gasification systems for sustainable energy production.         |
+| **[Heat Exchanger Fouling Analysis](https://github.com/atmblaise/RRS-003-Heat-Exchanger-Fouling-Analysis)**               | Fouling prediction, thermal performance evaluation, and digital twin development for industrial heat exchanger systems.                         |
 
 ---
 
-## Engineering Technologies
+## Interests
 
-Design and development of industrial engineering solutions including process simulations, digital twins, optimization platforms, monitoring systems, and engineering analytics.
-
----
-
-## Industrial AI
-
-Application of artificial intelligence to process engineering, predictive analytics, digital twins, optimization, process monitoring, and engineering decision support.
-
----
-
-## Open Source Engineering
-
-Contributions to the engineering software ecosystem through open-source projects, reusable engineering libraries, and collaboration with scientific communities.
-
----
-
-## Publications
-
-Technical reports, engineering case studies, research publications, literature reviews, and engineering documentation produced through our research activities.
-
----
-
-# Research Focus
-
-Current research areas include:
-
-- Process Systems Engineering
-- Reaction Engineering
-- Heat and Mass Transfer
-- Carbon Capture, Utilization and Storage (CCUS)
-- Process Simulation
-- Digital Twins
-- Industrial Automation
-- Engineering Optimization
-- Energy Systems
-- Industrial Artificial Intelligence
-
----
-
-# Featured Research Projects
-
-### RRS-001 — Sugarcane Bagasse Pasteurization
-
-Experimental and computational investigation of steam pasteurization for agricultural biomass using process simulation and thermal modelling.
-
-Status: **Validation Ready**
-
----
-
-### RRS-002 — Biomass Gasification
-
-Reaction engineering and process simulation of biomass conversion technologies for sustainable energy production.
-
-Status: **In Progress**
-
----
-
-# Open Source Engineering
-
-NeksGen Sys actively develops and contributes to engineering software, reusable computational tools, and open engineering technologies that support the wider engineering community.
-
----
-
-# Research Roadmap
-
-Current strategic priorities include:
-- Process Engineering
-- Process Design & Optimization
-- Climate Technologies
-- Engineering Software
-- Digital Twins
-- Industrial AI
-- Engineering Analytics
+* Process Systems Engineering
+* Process Design and Optimization
+* Mathematical Modeling & Scientific Computation
+* Reaction Engineering
+* Process Simulation
+* Heat and Mass Transfer
+* Climate Technologies (Carbon Capture, Utilization and Storage)
+* Digital Twins
+* Engineering Software
+* Industrial Artificial Intelligence
 
 ---
 
 # Collaboration
 
-NeksGen Sys welcomes collaboration with:
-
-- Researchers
-- Universities
-- Engineering Organizations
-- Open Source Communities
-- Climate Technology Companies
-- Industrial Partners
-
----
-
-# Contact
-
 We welcome discussions on engineering research, software development, industrial AI, process simulation, and collaborative engineering projects.
 
 Together, we are building the next generation of engineering technologies.
----
-
 ## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/atmblaise)
