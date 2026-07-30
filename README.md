@@ -1,8 +1,8 @@
 # Blaise Atambo
 
-**Blaise Atambo is a Chemical Engineering graduate whose work focuses on research and development in process engineering through computational modelling, process simulation, and engineering software.**
+**Blaise Atambo is a Chemical Engineering graduate developing technological workflows for process engineering through scientific research, computational modelling, process simulation, and engineering software.**
 
-**NeksGen Sys** provides the framework through which research, engineering projects, software development, and technical documentation are planned, developed, and maintained.
+**NeksGen Sys** provides the framework through which research, engineering projects, tools & technologies, and technical documentation are planned, developed, and maintained.
 
 ---
 
